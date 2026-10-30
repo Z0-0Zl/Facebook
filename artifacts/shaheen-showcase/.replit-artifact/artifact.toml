@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "SHAHEEN GROUP Showcase"
+description = "A cinematic, single-page social profile showcase for Yousef Z. A. Shaheen, with a responsive photo gallery, Facebook connection details, and QR code."
+version = "1.0.0"
+id = "artifacts/shaheen-showcase"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 23076
+
+[services.development]
+run = "pnpm --filter @workspace/shaheen-showcase run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/shaheen-showcase", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/shaheen-showcase/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "23076"
+BASE_PATH = "/"

@@ -1,0 +1,1 @@
+- [SHAHEEN GROUP showcase](shaheen-showcase.md) — Preserve the single-file social profile scope and use the supplied photos, Facebook QR, and CTA unchanged.

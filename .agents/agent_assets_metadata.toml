@@ -1,0 +1,16 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "zAJXsjTgIEykPf5VZVtzN"
+uri = "file://artifacts/shaheen-showcase/index.html"
+type = "html"
+title = "SHAHEEN GROUP — Standalone index.html"
+description = "A single-file, publish-ready Facebook showcase with embedded CSS, JavaScript, five original portraits, and the original QR code."
+logical_id = "dc5a1f43-b7a3-413b-8ac8-e0c3f9381537"
+content_hash = "sha256:f617cd927a8c709fadf71e79f448167c8e4fd27826b4e94f394472a5fecdbf20"
+size = 885630
+mtime_ms = 1793338243965
+storage_uri = "gcs://replit-rams-assets-pike/rams/assets/repl:c7d75b9c-e1ac-4843-ad02-1be70869b7d5/dc5a1f43-b7a3-413b-8ac8-e0c3f9381537/93d29a67-0bff-4a89-bed6-bec68ea84dbf"
+storage_version_token = "1793338337158722"
+content_type = "text/html"

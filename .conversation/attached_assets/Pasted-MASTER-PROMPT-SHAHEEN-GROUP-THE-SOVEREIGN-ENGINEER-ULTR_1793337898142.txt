@@ -1,0 +1,434 @@
+MASTER PROMPT — SHAHEEN GROUP
+
+THE SOVEREIGN ENGINEER | ULTRA-PREMIUM SOCIAL MEDIA LANDING PAGE
+
+أريد منك تصميم وتطوير ملف نشر مستقل وجاهز للإنتاج باسم:
+
+"index.html"
+
+ليكون صفحة تعريفية رسمية وفاخرة لحساباتي على مواقع التواصل الاجتماعي، بهوية بصرية استثنائية تليق بعلامة تقنية عالمية (Global Luxury Technology Brand).
+
+لا أريد صفحة تعريفية تقليدية أو قالباً جاهزاً أو تصميماً عادياً. أريد تجربة رقمية سينمائية متكاملة، بمستوى تصميم المواقع العالمية الفاخرة، تجمع بين الهندسة البصرية المتقدمة، والحركات السينمائية، والتفاعلات الدقيقة، والانتقالات الانسيابية، والتفاصيل التي تمنح الصفحة شخصية مستقلة ومهيبة.
+
+---
+
+01 — CORE IDENTITY & BRAND POSITIONING
+
+Brand Identity: SHAHEEN GROUP
+
+Official Name: Yousef Z. A. Shaheen
+
+Professional Title: THE SOVEREIGN ENGINEER
+
+Brand Positioning: A Sovereign Digital Identity. Engineered Beyond Limits.
+
+Design Philosophy:
+
+- Luxury Technology.
+- Cinematic Digital Experience.
+- Sophisticated Minimalism.
+- Architectural Precision.
+- Premium Editorial Design.
+- Futuristic Elegance.
+- Global Personal Branding.
+
+يجب أن تعكس الصفحة شخصية مهندس تقني صاحب رؤية عالمية، وأن تجمع بين الهيبة، والثقة، والدقة الهندسية، والفخامة الرقمية.
+
+02 — SOCIAL MEDIA PROFILE
+
+قم بإنشاء صفحة Facebook Profile Showcase بالمعلومات التالية:
+
+Platform: Facebook
+
+Display Name:
+Yousef Z. A. Shaheen
+
+Profile Description:
+
+Version 01 — The Sovereign Engineer
+
+Yousef Z. A. Shaheen ليس مجرد مطوّر؛ إنه سلطة تقنية بمعايير عالمية. حيث يحضر، يتحوّل الكود إلى نظام مهيب: Clean Architecture، Performance واثق، وElegance تشغيلية لا تُقلّد. إنه The Sovereign Engineer الذي يبني حلولاً رقمية بحجم الطموح العالمي، وبفخامة لا تعرف أنصاف الحلول.
+
+يجب عرض الوصف بأسلوب Editorial Typography فاخر، مع توزيع ذكي للأسطر، وإبراز العبارات الرئيسية، وإضافة تأثيرات ظهور تدريجية للنصوص.
+
+03 — CINEMATIC IMAGE GALLERY
+
+استخدم الصور الأصلية التالية حصرياً، مع الحفاظ على جودتها ونسب أبعادها وعدم استبدالها بصور عشوائية.
+
+Image Assets:
+
+1. https://i.postimg.cc/xdpFJMdY/IMG-20261027-193554-203.jpg
+
+2. https://i.postimg.cc/8CXnJMCN/IMG-20261027-200115-820.jpg
+
+3. https://i.postimg.cc/FKCnd3KF/Picsart-26-10-29-05-17-11-531.jpg
+
+4. https://i.postimg.cc/TPNHLgP1/Picsart-26-10-29-06-27-46-406.jpg
+
+5. https://i.postimg.cc/7LtQG0LY/Picsart-26-10-29-06-29-22-984.jpg
+
+Required Presentation Style:
+
+أنشئ معرض صور سينمائياً متقدماً يعتمد على تقنيات:
+
+- Perspective Stack.
+- Cascading Cards.
+- Depth Stack.
+- Layered 3D Carousel.
+- 3D Waterfall.
+- Deck Preview.
+- Spatial Image Composition.
+
+Visual Behavior:
+
+يجب أن تظهر الصور كبطاقات متداخلة ومائلة في منظور ثلاثي الأبعاد، مع اختلافات مدروسة في الحجم والعمق والزاوية، بحيث تمنح المشاهد إحساساً حقيقياً بالتسلسل المكاني والطبقات البصرية.
+
+أضف:
+
+- حركة 3D Perspective عند تحريك المؤشر.
+- انتقالات سلسة بين الصور.
+- تأثير Depth of Field.
+- Parallax Motion.
+- Dynamic Layering.
+- Smooth Image Reveal.
+- Hover Elevation.
+- Cinematic Image Scaling.
+- Soft Reflection.
+- Subtle Ambient Glow.
+- Interactive Card Focus.
+- Touch Swipe على الهواتف.
+- إمكانية التنقل بين الصور بسهولة.
+
+يجب أن يكون المعرض تفاعلياً بالكامل ومتوافقاً مع الشاشات اللمسية وأجهزة الكمبيوتر.
+
+04 — CINEMATIC MOTION & ANIMATION SYSTEM
+
+هذه النقطة من أهم متطلبات المشروع.
+
+أريد بناء Motion Design System متكامل، وليس مجرد إضافة حركات بسيطة.
+
+استخدم أفضل تقنيات CSS Animations وJavaScript وWeb Animations API، ويمكن استخدام مكتبات متخصصة عند الضرورة، بشرط عدم التضحية بسرعة التحميل.
+
+أولاً: Cinematic Transitions
+
+- Smooth Page Entrance.
+- Cinematic Scene Transitions.
+- Fluid Section Transitions.
+- Mask Reveal Transitions.
+- Clip-Path Animations.
+- Morphing Transitions.
+- 3D Perspective Transitions.
+- Blur-to-Focus Transitions.
+- Directional Wipe Effects.
+- Seamless Element Transitions.
+
+ثانياً: Premium Typography Motion
+
+- Animated Letter Reveal.
+- Character-by-Character Entrance.
+- Word-by-Word Reveal.
+- Staggered Text Animation.
+- Kinetic Typography.
+- Variable Font Animation.
+- Smooth Text Morphing.
+- Gradient Text Flow.
+- Masked Typography Reveal.
+- Cinematic Headline Entrance.
+
+ثالثاً: Advanced Motion Effects
+
+- Magnetic Hover.
+- Cursor Interaction.
+- Subtle 3D Tilt.
+- Parallax Scrolling.
+- Floating Elements.
+- Depth-Based Motion.
+- Elastic Micro-Interactions.
+- Scroll-Triggered Animations.
+- Reveal-on-Scroll.
+- Smooth Scale Transitions.
+- Animated Light Reflections.
+- Ambient Background Motion.
+
+رابعاً: Cinematic Light Effects
+
+- Animated Light Beams.
+- Moving Gradient Lighting.
+- Soft Lens Flare.
+- Subtle Neon Accents.
+- Dynamic Glow.
+- Light Sweep.
+- Glass Reflections.
+- Metallic Highlights.
+- Atmospheric Shadows.
+- Premium Bloom Effects.
+
+يجب أن تكون جميع الحركات متناسقة وراقية، وأن تخدم الهوية البصرية، دون مبالغة أو تشتيت أو استهلاك غير ضروري للموارد.
+
+05 — LUXURY TAGS, BADGES & STATUS LABELS
+
+أضف نظاماً متكاملاً من الوسوم والشارات الاحترافية (Premium Tags & Badges)، بتصميم راقٍ ومتناسق مع الهوية.
+
+أمثلة على الوسوم:
+
+- THE SOVEREIGN ENGINEER
+- VERIFIED IDENTITY
+- MASTER DEVELOPER
+- DIGITAL ARCHITECT
+- TECHNOLOGY VISIONARY
+- SHAHEEN GROUP
+- OFFICIAL PROFILE
+- VERSION 01
+- BEYOND INNOVATION
+- BEYOND LIMITS
+
+Badge Design Requirements:
+
+- Metallic Gold Badges.
+- Minimal Luxury Labels.
+- Glassmorphism Tags.
+- Animated Border Accents.
+- Premium Status Indicators.
+- Micro-Animated Icons.
+- Elegant Capsule Badges.
+- Fine-Line Separators.
+- Sophisticated Hover Effects.
+
+يجب أن تظهر الوسوم بأسلوب Editorial Luxury، وليس كملصقات عشوائية أو عناصر مزدحمة.
+
+06 — FACEBOOK CONNECTION & CTA
+
+أنشئ زر دعوة لاتخاذ إجراء (Primary Call To Action) بمظهر فاخر وواضح.
+
+Button Text:
+
+اضفني على فيسبوك
+
+Destination URL:
+
+https://www.facebook.com/share/19u4QUKFTL/
+
+Button Requirements:
+
+- Facebook Icon.
+- Premium Gradient Surface.
+- Animated Border.
+- Subtle Gold Highlight.
+- Magnetic Hover Interaction.
+- Smooth Press Animation.
+- Elegant Shadow.
+- External Link Support.
+- Mobile-Friendly Touch Interaction.
+
+يجب أن يكون الزر بارزاً بصرياً، وأن يفتح رابط Facebook الصحيح عند النقر عليه.
+
+استخدم "target="_blank"" و"rel="noopener noreferrer"".
+
+07 — FACEBOOK QR CODE
+
+ضع صورة QR Code الأصلية أسفل زر إضافة Facebook مباشرة.
+
+QR Code Image:
+
+https://i.postimg.cc/tCDd4yTw/Facebook-qr-(1).jpg
+
+Presentation Requirements:
+
+- إطار فاخر Minimal Luxury Frame.
+- خلفية داكنة أنيقة.
+- حواف دقيقة.
+- Soft Ambient Glow.
+- تأثير ظهور تدريجي.
+- عنوان صغير: SCAN TO CONNECT.
+- وصف مختصر: Connect with Yousef on Facebook.
+- الحفاظ على وضوح QR Code وقابليته للمسح.
+
+مهم جداً: لا تستخدم أي تأثير أو طبقة فوق رمز QR تؤثر على إمكانية قراءته، ولا تقم بتغيير الصورة الأصلية أو تشويه أبعادها.
+
+08 — VISUAL DESIGN SYSTEM
+
+اعتمد هوية بصرية فاخرة مستوحاة من المواقع التقنية العالمية ومنتجات Luxury Technology.
+
+Primary Palette:
+
+- Obsidian Black: #08090B
+- Deep Charcoal: #111318
+- Graphite: #1A1D23
+- Metallic Gold: #D6AD60
+- Champagne Gold: #E7C98A
+- Platinum Silver: #C5C8CE
+- Pure White: #FFFFFF
+
+Visual Materials:
+
+- Premium Glassmorphism.
+- Obsidian Surfaces.
+- Metallic Accents.
+- Subtle Noise Texture.
+- Layered Shadows.
+- Fine Borders.
+- Soft Light Gradients.
+- Sophisticated Depth.
+- Cinematic Contrast.
+
+تجنب الألوان الصارخة والتدرجات الرخيصة والتأثيرات المبالغ فيها.
+
+09 — CINEMATIC TYPOGRAPHY SYSTEM
+
+استخدم مجموعة خطوط عالمية راقية ومتناسقة.
+
+أضف دعماً لخطوط:
+
+- Inter.
+- Manrope.
+- Space Grotesk.
+- Plus Jakarta Sans.
+- Sora.
+- Outfit.
+- Cormorant Garamond.
+- Playfair Display.
+
+استخدم الخطوط بحسب طبيعة العنصر، مع مراعاة التوازن بين الخطوط الهندسية الحديثة والخطوط التحريرية الفاخرة.
+
+يجب أن تتضمن التجربة:
+
+- Animated Headlines.
+- Oversized Editorial Typography.
+- Elegant Letter Spacing.
+- Dynamic Font Weights.
+- Cinematic Text Reveal.
+- Responsive Typography.
+
+10 — INTERFACE STRUCTURE
+
+نظّم الصفحة وفق التسلسل التالي:
+
+1. Cinematic Intro / Brand Identity.
+2. SHAHEEN GROUP Brand Signature.
+3. THE SOVEREIGN ENGINEER Title.
+4. Facebook Profile Name.
+5. Professional Description.
+6. Cinematic 3D Perspective Image Gallery.
+7. Premium Identity Badges.
+8. Facebook Connection Button.
+9. QR Code Showcase.
+10. Elegant Footer.
+
+يجب أن يكون الترتيب متوازناً، مع مساحات فارغة مدروسة (Negative Space)، وتسلسل بصري واضح (Visual Hierarchy).
+
+11 — RESPONSIVE DESIGN & CROSS-DEVICE SUPPORT
+
+يجب أن تعمل الصفحة بكفاءة على:
+
+- Android Smartphones.
+- iPhone.
+- Tablets.
+- Laptops.
+- Desktop Displays.
+- Ultra-Wide Screens.
+
+المتطلبات:
+
+- Mobile-First Design.
+- Fluid Responsive Layout.
+- Touch-Friendly Controls.
+- Adaptive Typography.
+- Responsive 3D Gallery.
+- Optimized Image Rendering.
+- No Horizontal Overflow.
+- Proper Safe-Area Support.
+
+يجب اختبار العرض على الشاشات الصغيرة والكبيرة، وليس الاكتفاء بتصميم سطح المكتب.
+
+12 — PERFORMANCE, ACCESSIBILITY & SECURITY
+
+أريد تجربة فاخرة دون التضحية بالأداء.
+
+التزم بما يلي:
+
+- Fast Initial Rendering.
+- Lazy Loading للصور عند الحاجة.
+- Efficient CSS Animations.
+- Use Transform and Opacity for Motion.
+- Avoid Unnecessary JavaScript.
+- Reduced Motion Support.
+- Keyboard Accessibility.
+- Semantic HTML5.
+- Descriptive Image Alt Attributes.
+- Correct External Link Security.
+- No Console Errors.
+- No Broken Assets.
+- No Unnecessary Dependencies.
+
+استخدم "prefers-reduced-motion" لتوفير تجربة مناسبة لمن يفضل تقليل الحركة.
+
+13 — PRODUCTION & DEPLOYMENT REQUIREMENTS
+
+المطلوب النهائي هو ملف واحد مستقل باسم "index.html".
+
+يجب أن يحتوي الملف على:
+
+- HTML5 Structure.
+- Embedded CSS.
+- Embedded JavaScript.
+- Complete Animation System.
+- Responsive Layout.
+- Interactive Image Gallery.
+- All Required Social Links.
+- All Required Image Assets.
+
+يمكن تحميل الخطوط أو المكتبات الخارجية عند الحاجة، لكن يجب تقليل الاعتماديات الخارجية قدر الإمكان.
+
+Deployment Compatibility:
+
+- GitHub Pages.
+- Cloudflare Pages.
+- Vercel.
+- Netlify.
+- Any Standard Static Hosting.
+
+لا أريد Backend.
+لا أريد Database.
+لا أريد API Keys.
+لا أريد Build Process.
+لا أريد إعدادات نشر معقدة.
+
+يجب أن يكون الملف قابلاً للنشر مباشرة.
+
+14 — FINAL QUALITY CONTROL
+
+قبل تسليم المشروع:
+
+1. تحقق من تحميل جميع الصور الخمس.
+2. تحقق من ظهور معرض الصور ثلاثي الأبعاد بصورة صحيحة.
+3. اختبر جميع الحركات والانتقالات.
+4. تحقق من عمل زر Facebook وفتح الرابط الصحيح.
+5. تحقق من وضوح QR Code وإمكانية مسحه.
+6. اختبر التصميم على Android وDesktop.
+7. تحقق من عدم وجود أخطاء JavaScript أو CSS.
+8. تحقق من عدم وجود عناصر متداخلة أو خارجة عن الشاشة.
+9. تحقق من سرعة التحميل وسلاسة الحركة.
+10. تحقق من أن الملف مستقل وجاهز للنشر.
+
+15 — FINAL CREATIVE DIRECTION
+
+أريد النتيجة النهائية وكأنها صفحة رقمية رسمية صُممت بواسطة فريق عالمي متخصص في Luxury Digital Experiences وPremium Brand Engineering.
+
+لا تستخدم قوالب Bootstrap التقليدية.
+لا تستخدم تصاميم جاهزة مكررة.
+لا تستخدم حركات بدائية.
+لا تختصر المتطلبات.
+لا تستبدل الصور الأصلية.
+لا تحذف أي عنصر مطلوب.
+
+ابتكر تجربة بصرية ذات شخصية قوية، مع اهتمام استثنائي بالتفاصيل الدقيقة، والانتقالات السينمائية، والخطوط المتحركة، والوسوم والشارات، والعمق ثلاثي الأبعاد، والإضاءة، والتفاعلات الدقيقة.
+
+الهدف النهائي:
+
+إنشاء صفحة Facebook Showcase استثنائية لـ Yousef Z. A. Shaheen، تجمع بين الهيبة التقنية والفخامة البصرية والهندسة السينمائية، وتقدم الهوية الشخصية بأسلوب عالمي متفرد.
+
+SHAHEEN GROUP
+
+BEYOND INNOVATION. BEYOND LIMITS.
+
+THE SOVEREIGN ENGINEER.
